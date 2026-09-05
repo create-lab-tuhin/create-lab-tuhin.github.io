@@ -1,0 +1,21 @@
+# One entry per member, in display order. Photos live in assets/img/.
+# Names here are also used to bold members in the author lists of _data/papers.yml.
+- name: Tuhin Chakrabarty
+  role: Assistant Professor
+  url: https://tuhinjubcse.github.io/
+  photo: tuhin.jpg
+
+- name: Xinyue Liu
+  role: PhD Student
+  url: https://cauchy221.github.io/
+  photo: xinyue.jpg
+
+- name: Abhik Bhattacharjee
+  role: PhD Student
+  url: https://abhik.vercel.app/
+  photo: abhik.jpg
+
+- name: Jacob Choi
+  role: PhD Student
+  url: https://jacobjchoi.github.io/
+  photo: jacob.jpg

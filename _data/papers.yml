@@ -1,0 +1,23 @@
+# Newest first. Year headings are generated from the `year` field.
+# `links` is optional; each entry needs a label and a url.
+- title: Generative AI floods and dilutes the market for books
+  authors: Tuhin Chakrabarty, Xinyue Liu, Jane C. Ginsburg, Paramveer Dhillon
+  venue: arXiv preprint
+  year: 2026
+  url: https://arxiv.org/abs/2607.20349
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2607.20349
+
+- title: "Alignment Whack-a-Mole: Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models"
+  authors: Xinyue Liu, Niloofar Mireshghallah, Jane C. Ginsburg, Tuhin Chakrabarty
+  venue: COLM 2026
+  year: 2026
+  url: https://arxiv.org/abs/2603.20957
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2603.20957
+    - label: Code
+      url: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code
+    - label: Project page
+      url: https://cauchy221.github.io/Alignment-Whack-a-Mole/

@@ -1,0 +1,19 @@
+# Site settings. Content lives in _data/ and index.html; styles in assets/css/style.css.
+title: PROSE
+affiliation: Stony Brook University
+department: Department of Computer Science
+description: PROSE is a research group in the Department of Computer Science at Stony Brook University, led by Tuhin Chakrabarty.
+
+# GitHub Pages: for a project site served at https://<user>.github.io/tuhin-lab-website/
+# keep baseurl as the repo name. For a user/org site or a custom domain, set baseurl: "https://cauchy221.github.io"   # used for absolute links in social previews.
+baseurl: "/tuhin-lab-website"
+url: "https://cauchy221.github.io"   # used for absolute links in social previews
+
+contact:
+  email: "[email]"
+  office: "[Office, building]"
+  address: "Stony Brook University, Stony Brook, NY 11794"
+
+timezone: America/New_York
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock, vendor, node_modules]
