@@ -5,10 +5,10 @@ affiliation: Stony Brook University
 department: Department of Computer Science
 description: CREATE (Creativity, Rights, Economics, Attribution, Trust & Ethics) is a research group in the Department of Computer Science at Stony Brook University, led by Tuhin Chakrabarty. We study what AI does to creativity, to creators, and to copyright.
 
-# GitHub Pages: for a project site served at https://<user>.github.io/create-lab/
-# keep baseurl as the repo name. For a user/org site or a custom domain, set baseurl: "".
-baseurl: "/create-lab"
-url: "https://cauchy221.github.io"   # used for absolute links in social previews
+# GitHub Pages: this is the org site served at https://create-lab-tuhin.github.io/, so baseurl
+# is empty. For a project site served at https://<owner>.github.io/<repo>/, set baseurl: "/<repo>".
+baseurl: ""
+url: "https://create-lab-tuhin.github.io"   # used for absolute links in social previews
 
 timezone: America/New_York
 markdown: kramdown
