@@ -66,7 +66,7 @@ nav a:hover { color: var(--red); text-decoration: none; }
   max-width: 22ch;
   text-wrap: balance;
 }
-.intro p { margin-top: 24px; font-size: 20px; line-height: 1.5; max-width: 32em; }
+.intro p { margin-top: 24px; font-size: 20px; line-height: 1.5; max-width: 32em; text-wrap: pretty; }
 .group-photo img { width: 100%; aspect-ratio: 5 / 4; object-fit: cover; object-position: 50% 48%; background: #eee; }
 .group-photo figcaption { margin-top: 10px; font-family: var(--sans); font-size: 13px; color: var(--faint); }
 
